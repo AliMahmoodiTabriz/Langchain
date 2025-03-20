@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-google-genai
+langchain-google-vertexai
+langchain-community
+langchain-core
+langchain-text-splitters
+fastapi
+langserve
+urllib3==1.26.16
+uvicorn
+sse_starlette
