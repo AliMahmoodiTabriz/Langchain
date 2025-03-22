@@ -4,9 +4,12 @@ langchain-google-genai
 langchain-google-vertexai
 langchain-community
 langchain-core
+langchain_chroma
 langchain-text-splitters
 fastapi
 langserve
 urllib3==1.26.16
 uvicorn
 sse_starlette
+sentence-transformers
+langchain-huggingface
