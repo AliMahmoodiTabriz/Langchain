@@ -13,3 +13,5 @@ uvicorn
 sse_starlette
 sentence-transformers
 langchain-huggingface
+duckduckgo-search
+langgraph
